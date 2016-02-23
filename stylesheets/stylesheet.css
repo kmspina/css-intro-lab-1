@@ -9,7 +9,7 @@ body {
   line-height: 1.5;
   color: #606c71;
   text-align: center;
-  background-color: #green;
+  background-color: green;
 }
 
 .container {
@@ -20,7 +20,7 @@ body {
   margin: 0 auto;
   padding: 1rem 2rem;
   text-align: left;
-  background-color: #yellow;
+  background-color: yellow;
 }
 
 section {
